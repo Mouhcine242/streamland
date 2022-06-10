@@ -1,0 +1,23 @@
+
+.card1{
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}
+
+.card-title1{
+    margin-left: 12px;
+}
+
+.card-text1{
+    margin-left: 12px;
+    color: aliceblue;
+    
+}
+
+.card-img-top1{
+    border-radius: 10px;
+    height: 170px;
+    width: 130px;
+}
+
